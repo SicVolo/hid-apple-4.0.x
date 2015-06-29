@@ -7,9 +7,7 @@ A Linux HID Apple driver fixed for the early 2015 Apple MacBook Pro  12,1, for L
 
 Hardcodes default Ubuntu 15.04 kernel parameters (DEBUG_FS=Y, HIDRAW=Y)
 
-[SicVolo/hid-apple-4.00] driver is a fixed hid-apple driver for the above problem.
-
-[SicVolo/hid-apple-4.00]: https://github.com/SicVolo/hid-apple-3.19 "SicVolo/hid-apple-4.00 · GitHub"
+The fixed touchpad driver is here - https://github.com/SicVolo/bcm5974-4.00 "SicVolo/bcm5974-4.00 · GitHub"
 
 Installation
 ---------------------
